@@ -12,22 +12,31 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Johns Hopkins University, 
+      institution: <a href="https://www.jhu.edu/">Johns Hopkins University</a> 
       year: 2021 - Present
       description:
         - Pursuing PhD in Electrical Engineering
         - Advised by <a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a>
         - Performing Computer Vision, Human Authentation, and 3D Vision research at <a href="https://aiem.jhu.edu/">Artificial Intelligence for Engineering and Medicine Lab</a>
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master
+      institution: <a href="https://www.northwestern.edu/">Northwestern University</a> 
+      year: 2019 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Majored in Electrical Engineering 
+        - Graduate thesis advised by <a href="http://users.ece.northwestern.edu/~yingwu/">Ying Wu</a> 
+        - Collaborative research with <a href="https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/">Oliver Cossairt</a>, <a href="https://www.optics.arizona.edu/person/florian-willomitzer">Florian Willomitzer</a> and <a href="https://stevetarzia.com/">Stephen Tarzia</a>
+    - title: Bachelor
+      institution: <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> 
+      year: 2015 - 2019
+      description:
+        - Majored in Electronic and Electrical Engineering 
+        - Undergraduate thesis advised by <a href="https://faculty.uestc.edu.cn/dongle/zh_CN/index.htm">Le Dong</a> 
+    - title: Bachelor
+      institution: <a href="https://www.gla.ac.uk/">University of Glasgow</a> 
+      year: 2015 - 2019
+      description:
+        - Majored in Electronic and Electrical Engineering 
+        - <a href="https://www.gla.uestc.edu.cn/english/Home.htm">Joint program</a>  with University of Electronic Science and Technology of China
 
 - title: Experience
   type: time_table
