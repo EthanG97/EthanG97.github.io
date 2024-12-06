@@ -6,17 +6,18 @@
     - name: Date of Birth
       value: 10th Feb 1997
     - name: Languages
-      value: Mandrine, English
+      value: Mandarin, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Johns Hopkins University, 
-      year: 1905
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Pursuing PhD in Electrical Engineering
+        - Advised by <a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a>
+        - Performing Computer Vision, Human Authentation, and 3D Vision research at <a href="https://aiem.jhu.edu/">Artificial Intelligence for Engineering and Medicine Lab</a>
         - title: Description 3.
           contents:
             - Sub-description 1.
