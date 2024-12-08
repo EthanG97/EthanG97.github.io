@@ -16,21 +16,21 @@
       year: 2021 - Present
       description:
         - Pursuing PhD in Electrical Engineering
-        - Advised by Prof.<a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a>
+        - Advised by Prof. <a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a>
         - Performing Computer Vision, Human Authentation, and 3D Vision research at <a href="https://aiem.jhu.edu/">Artificial Intelligence for Engineering and Medicine Lab</a>
     - title: Master
       institution: <a href="https://www.northwestern.edu/">Northwestern University</a> 
       year: 2019 - 2021
       description:
         - Majored in Electrical Engineering 
-        - Graduate thesis advised by Prof.<a href="http://users.ece.northwestern.edu/~yingwu/">Ying Wu</a> 
-        - Collaborative research with Prof.<a href="https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/">Oliver Cossairt</a>, Prof.<a href="https://www.optics.arizona.edu/person/florian-willomitzer">Florian Willomitzer</a> and Prof.<a href="https://stevetarzia.com/">Stephen Tarzia</a>
+        - Graduate thesis advised by Prof. <a href="http://users.ece.northwestern.edu/~yingwu/">Ying Wu</a> 
+        - Collaborative research with Prof. <a href="https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/">Oliver Cossairt</a>, Prof. <a href="https://www.optics.arizona.edu/person/florian-willomitzer">Florian Willomitzer</a> and Prof. <a href="https://stevetarzia.com/">Stephen Tarzia</a>
     - title: Bachelor
       institution: <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> 
       year: 2015 - 2019
       description:
         - Majored in Electronic and Electrical Engineering 
-        - Undergraduate thesis advised by Prof.<a href="https://faculty.uestc.edu.cn/dongle/zh_CN/index.htm">Le Dong</a> 
+        - Undergraduate thesis advised by Prof. <a href="https://faculty.uestc.edu.cn/dongle/zh_CN/index.htm">Le Dong</a> 
     - title: Bachelor
       institution: <a href="https://www.gla.ac.uk/">University of Glasgow</a> 
       year: 2015 - 2019
@@ -42,62 +42,66 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: Whiting School of Engineering, Johns Hopkins University
+      institution: Whiting School of Engineering, Johns Hopkins University, Baltimore, Maryland, US
       year: 2022.01 - Present
       description:
-        - <i>Gait Recognition</i>: As a part of Biometric Recognition and Identification at Altitude and Range (BRIAR), built gait recognition pipeline to identify human from long range, i.e., 500m and aerial sensor platforms, i.e., 50°. Proposed DME is integrated as a part of final pipeline.
-        - Supervised by Prof.<a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a> and Prof.<a href="https://sites.google.com/view/cheng-peng/">Cheng Peng</a>
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - As a part of Biometric Recognition and Identification at Altitude and Range (<a href="https://www.iarpa.gov/research-programs/briar">BRIAR</a>), built gait recognition pipeline to identify human from long range, i.e., 500m and aerial sensor platforms, i.e., 50°. Proposed DME is integrated as a part of final pipeline.
+        - Developed a robust 3D scene reconstruction algorithm leveraging accurate camera pose information from SfM and dense point clouds from 3D geometry reconstruction methods, achieving high fidelity under challenging sparse view conditions.
+        - Supervised by Prof. <a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a> and Prof. <a href="https://sites.google.com/view/cheng-peng/">Cheng Peng</a>
+    - title: Studnet Associate
+      institution: Honda Research Institute, San Jose, California, US
+      year: 2022.02 - 2022.05
       description:
-        - Description 1.
-        - Description 2.
+        - Utilized the prior knowledge of Large Language Model to integrate the language and visual clues and predict viewers’ emotion when they watch a video; introduced spatiotemporal emotion stimuli and detailed explanations enhancing the interpretability and efficiency of the model.
+        - Mentored by Dr. <a href="https://shaoyuanlo.github.io/">Shao-Yuan Lo</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Graduate Research Assistant
+      institution: Department of Electrical and Computer Engineering, Northwestern University, Evanston, Illinois, US
+      year: 2020.03 - 2021.03
       description:
+        - Employed the Fourier Descriptor to execute a formula recognizer which identifies multiple formula in a picture. Applied tree graph to describe the structure and further get the Latex form of the formula
+        - Supervised by Prof. <a href="http://users.ece.northwestern.edu/~yingwu/">Ying Wu</a> and Prof. <a href="https://zhoujiahuan1991.github.io/">Jiahuan Zhou</a> 
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Software Engineer Intern
+      institution: Snips Media, Chicago, Illinois, US
+      year: 2020.06 - 2020.09
+      description:
+        - Reconstructed 3D body shapes from 360-degree video footage and extracted images at specific angles for diagnostic purposes, utilizing AliceVision, a C++ library, to construct the 3D structure.
+        - Mentored by Prof. <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zaretsky-david.html">David Zaretsky</a>
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Graduate Research Assistant
+      institution: Department of Electrical and Computer Engineering, Northwestern University, Evanston, Illinois, US
+      year: 2020.01 - 2020.03
+      description:
+        - Developed an adaptive band-pass filter to reduce noise in acoustic signals, leveraging the adaptive boost method and frequency signal analysis to classify the presence of gunshots in a reserve environment, achieving an overall accuracy exceeding 97%.
+        - Supervised by Prof. <a href="https://stevetarzia.com/">Stephen Tarzia</a>
+
+    - title: Undergrade Researcher
+      institution: University of Electronic Science and Technology of China, Chengdu, Sichuan, China
+      year: 2018.09 - 2019.06
+      description:
+        - Designed and implemented a Visual Question Answering (VQA) system by fusing image feature maps extracted using ResNet-152 (via transfer learning) with question features generated by an LSTM model.
+        - Supervised by Prof. <a href="https://faculty.uestc.edu.cn/dongle/zh_CN/index.htm">Le Dong</a> 
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://iapr-tc4.org/blog/2024/09/21/2024-iapr-bbspa-winner-yuxiang-guo/">IAPR Best Biometrics Student Paper Award</a>
+    - year: 2021
       items:
-        - Max Planck Medal
+        - First-Year Doctoral Fellowship
+    - year: 2019
+      items:
+        - Excellent Graduation Thesis of Glasgow College
+        - Excellent Graduate Student for Studying abroad by UESTC
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
