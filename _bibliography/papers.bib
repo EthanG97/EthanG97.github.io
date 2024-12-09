@@ -16,7 +16,7 @@
   selected={true},
   preview={IJCB2024.jpg},
   html={https://ieeexplore.ieee.org/abstract/document/10744527},
-  award={Yuxiang Guo receveid the **IAPR Best Biometrics Student Paper Award ** 2024},
+  award={<em><a href="https://iapr-tc4.org/blog/2024/09/21/2024-iapr-bbspa-winner-yuxiang-guo/">IAPR Best Biometrics Student Paper Award</a>},
   doi={10.1109/IJCB62174.2024.10744527}}
 
 @INPROCEEDINGS{10042572,
@@ -25,6 +25,7 @@
   abstract={Whole-body-based human authentication is a promising approach for remote biometrics scenarios. Current literature focuses on either body recognition based on RGB images or gait recognition based on body shapes and walking patterns; both have their advantages and drawbacks. In this work, we propose Dual-Modal Ensemble (DME), which combines both RGB and silhouette data to achieve more robust performances for indoor and outdoor whole-body based recognition. Within DME, we propose GaitPattern, which is inspired by the double helical gait pattern used in traditional gait analysis. The GaitPattern contributes to robust identification performance over a large range of viewing angles. Extensive experimental results on the CASIA-B dataset demonstrate that the proposed method outperforms state-of-the-art recognition systems. We also provide experimental results using the newly collected BRIAR dataset.},
   booktitle={2023 IEEE 17th International Conference on Automatic Face and Gesture Recognition (FG)}, 
   title={Multi-Modal Human Authentication Using Silhouettes, Gait and RGB}, 
+  annotation={* represents equal contribution},
   year={2023},
   volume={},
   number={},
@@ -37,74 +38,32 @@
   doi={10.1109/FG57933.2023.10042572},
   bibtex_show={true}}
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
+@article{guo2023gaitcontour,
+  abbr={WACV2025},
+  title={GaitContour: Efficient Gait Recognition based on a Contour-Pose Representation},
+  abstract={Gait recognition holds the promise to robustly identify subjects based on walking patterns instead of appearance information. In recent years, this field has been dominated by learning methods based on two principal input representations: dense silhouette masks or sparse pose keypoints. In this work, we propose a novel, point-based Contour-Pose representation, which compactly expresses both body shape and body parts information. We further propose a local-to-global architecture, called GaitContour, to leverage this novel representation and efficiently compute subject embedding in two stages. The first stage consists of a local transformer that extracts features from five different body regions. The second stage then aggregates the regional features to estimate a global human gait representation. Such a design significantly reduces the complexity of the attention operation and improves efficiency and performance simultaneously. Through large scale experiments, GaitContour is shown to perform significantly better than previous point-based methods, while also being significantly more efficient than silhouette-based methods. On challenging datasets with significant distractors, GaitContour can even outperform silhouette-based methods.},
+  author={Guo, Yuxiang and Shah, Anshul and Liu, Jiang and Gupta, Ayush and Chellappa, Rama and Peng, Cheng},
+  journal={arXiv preprint arXiv:2311.16497},
+  year={2023},
+  html={https://arxiv.org/abs/2311.16497},
+  pdf={gaitcontour.pdf},
+  preview={GaitContour.png},
   bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
+  selected={true},
 }
+
+@article{guo2024stimuvar,
+  title={Stimuvar: Spatiotemporal stimuli-aware video affective reasoning with multimodal large language models},
+  author={Guo, Yuxiang and Siddiqui, Faizan and Zhao, Yang and Chellappa, Rama and Lo, Shao-Yuan},
+  abstract={Predicting and reasoning how a video would make a human feel is crucial for developing socially intelligent systems. Although Multimodal Large Language Models (MLLMs) have shown impressive video understanding capabilities, they tend to focus more on the semantic content of videos, often overlooking emotional stimuli. Hence, most existing MLLMs fall short in estimating viewers' emotional reactions and providing plausible explanations. To address this issue, we propose StimuVAR, a spatiotemporal Stimuli-aware framework for Video Affective Reasoning (VAR) with MLLMs. StimuVAR incorporates a two-level stimuli-aware mechanism: frame-level awareness and token-level awareness. Frame-level awareness involves sampling video frames with events that are most likely to evoke viewers' emotions. Token-level awareness performs tube selection in the token space to make the MLLM concentrate on emotion-triggered spatiotemporal regions. Furthermore, we create VAR instruction data to perform affective training, steering MLLMs' reasoning strengths towards emotional focus and thereby enhancing their affective reasoning ability. To thoroughly assess the effectiveness of VAR, we provide a comprehensive evaluation protocol with extensive metrics. StimuVAR is the first MLLM-based method for viewer-centered VAR. Experiments demonstrate its superiority in understanding viewers' emotional responses to videos and providing coherent and insightful explanations.},
+  journal={arXiv preprint arXiv:2409.00304},
+  year={2024},
+  html={https://arxiv.org/abs/2311.16497},
+  pdf={StimuVAR.pdf},
+  preview={Stimuvar.png},
+  bibtex_show={true},
+  selected={true},
+  award={<em>Posted by <a href="https://engineering.jhu.edu/ece/news/ai-with-a-heart-tech-that-knows-what-humans-are-feeling/">JHU Whiting School</a></em>},
+}
+
 
