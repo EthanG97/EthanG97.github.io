@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>307B Clark Hall</p>
-    <p>3400 N Charles St</p>
-    <p>Baltimore, MD 21218</p>
+    <p>3400 N Charles St Baltimore, MD 21218</p>
+    <p></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
