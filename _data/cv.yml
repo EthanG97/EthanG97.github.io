@@ -45,7 +45,7 @@
       institution: Whiting School of Engineering, Johns Hopkins University, Baltimore, Maryland, US
       year: 2022.01 - Present
       description:
-        - As a part of Biometric Recognition and Identification at Altitude and Range (<a href="https://www.iarpa.gov/research-programs/briar">BRIAR</a>), built gait recognition pipeline to identify human from long range, i.e., 500m and aerial sensor platforms, i.e., 50°. Proposed DME is integrated as a part of final pipeline.
+        - *Gait Recognition* As a part of Biometric Recognition and Identification at Altitude and Range (<a href="https://www.iarpa.gov/research-programs/briar">BRIAR</a>), built gait recognition pipeline to identify human from long range, i.e., 500m and aerial sensor platforms, i.e., 50°. Proposed DME is integrated as a part of final pipeline.
         - Developed a robust 3D scene reconstruction algorithm leveraging accurate camera pose information from SfM and dense point clouds from 3D geometry reconstruction methods, achieving high fidelity under challenging sparse view conditions.
         - Supervised by Prof. <a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a> and Prof. <a href="https://sites.google.com/view/cheng-peng/">Cheng Peng</a>
     - title: Studnet Associate
