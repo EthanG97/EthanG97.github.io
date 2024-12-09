@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! <span style="font-size: 1.2rem;"><span class="font-weight-bold">I'm Yuxiang!</span> I'm currently a 4th year PhD student at <a href='https://aiem.jhu.edu/'>AIEM</a> advised by Prof. [Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/).  I earned MS degree from [Mccormick School of Engineering](https://www.mccormick.northwestern.edu/), [Northwestern University](https://www.northwestern.edu/) in 2021 and BS degree from [joint program](https://www.gla.uestc.edu.cn/english/Home.htm) hosted by [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) and [University of Glasgow](https://www.gla.ac.uk/). 
 
-My research lies in Machine Learning and Computer Vision, with a particular emphasis on Human-centered AI, Video Understanding, Multi-modal Large Language Models, and 3D Reconstruction. I had a wonderful experience as a Research Intern at [Honda Research Institute](https://usa.honda-ri.com/) in Spring 2024 mentored by Dr. [Shao-Yuan Lo](https://shaoyuanlo.github.io/) and <<span style="font-size: 1.2rem; color: red; font-weight: bold;">I am actively seeking research internship opportunities for 2025!</span>
+My research lies in Machine Learning and Computer Vision, with a particular emphasis on Human-centered AI, Video Understanding, Multi-modal Large Language Models, and 3D Reconstruction. I had a wonderful experience as a Research Intern at [Honda Research Institute](https://usa.honda-ri.com/) in Spring 2024 mentored by Dr. [Shao-Yuan Lo](https://shaoyuanlo.github.io/) and <span style="font-size: 1.2rem; color: red; font-weight: bold;">I am actively seeking research internship opportunities for 2025!</span>
 
 
 
