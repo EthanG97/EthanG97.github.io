@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-
+<p> Please refer to <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar">Google Scholar <i class="ai ai-google-scholar"></i></a> for more info :) </p>
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
