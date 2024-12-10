@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>307B Clark Hall</p>
     <p>3400 N Charles St Baltimore, MD 21218</p>
-    <p></p>
+    <p>yguo87 at jhu dot edu</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
