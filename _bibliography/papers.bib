@@ -33,7 +33,7 @@
   keywords={Training;Legged locomotion;Image recognition;Shape;Face recognition;Authentication;Gesture recognition},
   html={https://ieeexplore.ieee.org/abstract/document/10042572},
   pdf={Multi-Modal_Human_Authentication_Using_Silhouettes_Gait_and_RGB.pdf},
-  selected={true},
+  selected={false},
   preview={fg2023.jpg},
   doi={10.1109/FG57933.2023.10042572},
   bibtex_show={true}}
@@ -73,13 +73,26 @@
   title={SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction},
   author={Tang*, Yutao and Guo*, Yuxiang and Li, Deming and Peng, Cheng},
   journal={2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2024},
+  year={2025},
   abstract={Recent efforts in Gaussian-Splat-based Novel View Synthesis can achieve photorealistic rendering; however, such capability is limited in sparse-view scenarios due to sparse initialization and over-fitting floaters. Recent progress in depth estimation and alignment can provide dense point cloud with few views; however, the resulting pose accuracy is suboptimal. In this work, we present SPARS3R, which combines the advantages of accurate pose estimation from Structure-from-Motion and dense point cloud from depth estimation. To this end, SPARS3R first performs a Global Fusion Alignment process that maps a prior dense point cloud to a sparse point cloud from Structure-from-Motion based on triangulated correspondences. RANSAC is applied during this process to distinguish inliers and outliers. SPARS3R then performs a second, Semantic Outlier Alignment step, which extracts semantically coherent regions around the outliers and performs local alignment in these regions. Along with several improvements in the evaluation process, we demonstrate that SPARS3R can achieve photorealistic rendering with sparse images and significantly outperforms existing approaches.},
   html={https://arxiv.org/abs/2411.12592},
   pdf={Spars3r.pdf},
   preview={spars3r.png},
   bibtex_show={true},
   selected={true},
+  annotation={* represents equal contribution},
 }
 
+@artical{Guo2025ImageDoctorDT,
+  title={ImageDoctor: Diagnosing Text-to-Image Generation via Grounded Image Reasoning},
+  author={Guo*, Yuxiang and Liu*, Jiang and Wang, Ze and Chen, Hao and Sun, Ximeng and Zhao, Yang and Wu, Jialian and Yu, Xiaodong and Liu, Zicheng and Barsoum, Emad},
+  year={2025},
+  abstract={The rapid advancement of text-to-image (T2I) models has increased the need for reliable human preference modeling, a demand further amplified by recent progress in reinforcement learning for preference alignment. However, existing approaches typically quantify the quality of a generated image using a single scalar, limiting their ability to provide comprehensive and interpretable feedback on image quality. To address this, we introduce ImageDoctor, a unified multi-aspect T2I model evaluation framework that assesses image quality across four complementary dimensions: plausibility, semantic alignment, aesthetics, and overall quality. ImageDoctor also provides pixel-level flaw indicators in the form of heatmaps, which highlight misaligned or implausible regions, and can be used as a dense reward for T2I model preference alignment. Inspired by the diagnostic process, we improve the detail sensitivity and reasoning capability of ImageDoctor by introducing a “look-think-predict” paradigm, where the model first localizes potential flaws, then generates reasoning, and finally concludes the evaluation with quantitative scores. Built on top of a vision-language model and trained through a combination of supervised fine-tuning and reinforcement learning, ImageDoctor demonstrates strong alignment with human preference across multiple datasets, establishing its effectiveness as an evaluation metric. Furthermore, when used as a reward model for preference tuning, ImageDoctor significantly improves generation quality—achieving an improvement of 10% over scalar-based reward models.}
+  html={https://arxiv.org/abs/2510.01010v1},
+  annotation={* represents equal contribution},
+  bibtex_show={true},
+  selected={true},
+  pdf={Spars3r.pdf},
+  preview={spars3r.png},
+}
 
