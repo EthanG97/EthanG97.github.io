@@ -48,18 +48,32 @@
         - As a part of Biometric Recognition and Identification at Altitude and Range (<a href="https://www.iarpa.gov/research-programs/briar">BRIAR</a>), built gait recognition pipeline to identify human from long range, i.e., 500m and aerial sensor platforms, i.e., 50°. Proposed DME is integrated as a part of final pipeline.
         - Developed a robust 3D scene reconstruction algorithm leveraging accurate camera pose information from SfM and dense point clouds from 3D geometry reconstruction methods, achieving high fidelity under challenging sparse view conditions.
         - Supervised by Prof. <a href="https://engineering.jhu.edu/faculty/rama-chellappa/">Rama Chellappa</a> and Prof. <a href="https://sites.google.com/view/cheng-peng/">Cheng Peng</a>
-    - title: Studnet Associate
+    - title: Student Associate
       institution: Honda Research Institute, San Jose, California, US
-      year: 2022.02 - 2022.05
+      year: 2024.02 - 2024.05
       description:
-        - Utilized the prior knowledge of Large Language Model to integrate the language and visual clues and predict viewers’ emotion when they watch a video; introduced spatiotemporal emotion stimuli and detailed explanations enhancing the interpretability and efficiency of the model.
+        - Utilized the prior knowledge of Large Language Model to integrate the language and visual clues and predict viewers’ emotion when they watch a video; introduced spatiotemporal emotion stimuli and detailed explanations, enhancing the interpretability and efficiency of the model.
         - Mentored by Dr. <a href="https://shaoyuanlo.github.io/">Shao-Yuan Lo</a>
+
+    - title: Research Intern (Remote)
+      institution: Advanced Micro Devices, Santa Clara, California, US
+      year: 2025.03 - 2025.09
+      description:
+        - Developed ImageDoctor, a vision-language evaluation framework that provides multi-aspect scores and spatially grounded feedback for text-to-image generation through grounded image reasoning and reinforcement learning.
+        - Mentored by Dr. <a href="https://joellliu.github.io/">Jiang Liu</a>
+
+    - title: Student Researcher
+      institution: Google, Mountain View, California, US
+      year: 2025.10 - 2025.12
+      description:
+        - Enhanced edge-device familiar-face detection by integrating gait recognition to ensure reliability when face recognition fails.
+        - Hosted by <a href="https://www.linkedin.com/in/cheng-zhong-9413247/">Cheng Zhong</a>
 
     - title: Graduate Research Assistant
       institution: Department of Electrical and Computer Engineering, Northwestern University, Evanston, Illinois, US
       year: 2020.03 - 2021.03
       description:
-        - Employed the Fourier Descriptor to execute a formula recognizer which identifies multiple formula in a picture. Applied tree graph to describe the structure and further get the Latex form of the formula
+        - Employed the Fourier Descriptor to execute a formula recognizer which identifies multiple formulas in a picture. Applied a tree graph to describe the structure and further get the Latex form of the formula
         - Supervised by Prof. <a href="http://users.ece.northwestern.edu/~yingwu/">Ying Wu</a> and Prof. <a href="https://zhoujiahuan1991.github.io/">Jiahuan Zhou</a> 
 
     - title: Software Engineer Intern
